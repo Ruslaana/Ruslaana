@@ -1,0 +1,26 @@
+name: Generate Snake Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # щодня опівночі UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout GitHub Profile Repo
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Ruslaana
+          outputs: |
+            ./output/github-contribution-grid-snake.svg
+
+      - name: Push generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update contribution snake 🐍"
+          add: "output/github-contribution-grid-snake.svg"
