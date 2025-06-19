@@ -53,12 +53,6 @@
 
 ---
 
-## 🐍 Contribution Activity Snake
-
-![snake gif](https://github.com/Ruslaana/Ruslaana/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruslana-onyshchuk-527872267)  
