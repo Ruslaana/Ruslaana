@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Woman Coding" width="200" />
 
-### 🌍 FullStack Developer based in Viborg, Denmark  
+### 🌍 FullStack Developer based in Denmark  
 📫 Contact me at: **ruslaanonshchk@gmail.com**
 
 ---
