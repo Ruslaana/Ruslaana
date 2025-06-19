@@ -1,6 +1,6 @@
 # 👩‍💻 Hi there! I'm **Ruslana Onyshchuk**
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="female developer coding" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Woman Coding" width="200" />
 
 ### 🌍 FullStack Developer based in Viborg, Denmark  
 📫 Contact me at: **ruslaanonshchk@gmail.com**
