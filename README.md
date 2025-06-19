@@ -1,6 +1,8 @@
 # 👩‍💻 Hi there! I'm **Ruslana Onyshchuk**
 
-### 🌍 FullStack Developer from Viborg, Denmark  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
+
+### 🌍 FullStack Developer based in Viborg, Denmark  
 📫 Contact me at: **ruslaanonshchk@gmail.com**
 
 ---
@@ -53,7 +55,13 @@
 
 ---
 
+## 🐍 Contribution Activity Snake
+
+![snake gif](https://github.com/Ruslaana/Ruslaana/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruslana-onyshchuk-527872267)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruslana-onyshchuk-527872267)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ruslaanonshchk@gmail.com)
