@@ -12,10 +12,10 @@
 💡 I'm a passionate and curious developer who enjoys building full-stack applications with clean, functional code and user-friendly interfaces.
 
 ## 🎯 Currently focused on :
-🐍 learning Python, 
-🧩 Microservices with REST, Docker, and AWS, 
-🚀 CI/CD workflows & automated deployment, 
-🧪 Software testing (unit, mock, stress)
+- 🐍 Learning Python, 
+- 🧩 Microservices with REST, Docker, and AWS, 
+- 🚀 CI/CD workflows & automated deployment, 
+- 🧪 Software testing (unit, mock, stress)
 
 🌱 Always learning, always building.
 
