@@ -11,7 +11,11 @@
 
 💡 I'm a passionate and curious developer who enjoys building full-stack applications with clean, functional code and user-friendly interfaces.
 
-🎯 Currently focused on improving my skills in backend and advanced frontend frameworks.
+## 🎯 Currently focused on :
+🐍 learning Python, 
+🧩 Microservices with REST, Docker, and AWS, 
+🚀 CI/CD workflows & automated deployment, 
+🧪 Software testing (unit, mock, stress)
 
 🌱 Always learning, always building.
 
