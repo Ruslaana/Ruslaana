@@ -15,7 +15,7 @@
 - 🐍 Learning Python
 - 🧩 Microservices with REST, Docker, and AWS
 - 🚀 CI/CD workflows & automated deployment
-- 🧪 Software testing (unit, mock, stress)
+- 🧪 Software testing
 
 🌱 Always learning, always building.
 
