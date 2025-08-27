@@ -13,9 +13,9 @@
 
 ## 🎯 Currently focused on :
 - 🐍 Learning Python
-- 🧩 Microservices with REST, Docker, and AWS
+- ☁️ AWS
+- 🧩 Microservices, Docker
 - 🚀 CI/CD workflows & automated deployment
-- 🧪 Software testing
 
 🌱 Always learning, always building.
 
