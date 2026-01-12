@@ -50,7 +50,7 @@ I approach learning through **real projects, system design, and hands-on AWS pra
 - In-memory & modular service architectures
 
 ### 🧰 Dev & Ops Tools  
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,cursor" />
 
 - Git & GitHub workflows
 - API testing & debugging
