@@ -43,8 +43,7 @@ I approach learning through **real projects, system design, and hands-on AWS pra
 - Containerized microservices   
 
 ## 🧰 Dev & Ops Tools  
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cursor.svg" width="48" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" /> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cursor.svg" width="48" />
 
 - Git & GitHub workflows  
 - API testing & debugging  
