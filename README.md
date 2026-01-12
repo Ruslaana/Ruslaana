@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Woman Coding" width="200" />
 
-## 🧠 **Solution Architect / AI Developer**  
+## 🧠 Solution Architect / AI Developer  
 📍 Based in Denmark  
 📫 Contact me at: **ruslaanonshchk@gmail.com**
 
@@ -10,7 +10,7 @@
 
 🚀 About Me
 
-I’m a developer currently **requalifying toward Cloud Architecture and AI-driven systems**, with a strong focus on **AWS, backend engineering, and distributed systems**.
+I’m a developer currently **requalifying toward Cloud Architecture and AI-driven systems**, with a strong focus on **AWS, backend engineering, and distributed systems**.  
 I approach learning through **real projects, system design, and hands-on AWS practice**, not just theory.
 
 ---
@@ -29,33 +29,33 @@ I approach learning through **real projects, system design, and hands-on AWS pra
 
 ## 🛠️ Technical Stack
 
-## 🐍 Core Language  
+### 🐍 Core Language  
 <img src="https://skillicons.dev/icons?i=python" />
 
-- Python for backend services, automation, and data pipelines
-- Async programming & concurrency patterns
+- Python for backend services, automation, and data pipelines  
+- Async programming & concurrency patterns  
 
-## ☁️ Cloud & Architecture  
+### ☁️ Cloud & Architecture  
 <img src="https://skillicons.dev/icons?i=aws,docker" />
 
-- AWS
-- Cloud resource design & security principles
-- Containerized microservices
+- AWS  
+- Cloud resource design & security principles  
+- Containerized microservices  
 
-## ⚙️ Backend & APIs  
+### ⚙️ Backend & APIs  
 <img src="https://skillicons.dev/icons?i=python,nodejs" />
 
-- Flask (REST APIs, blueprints, middleware)
-- API design & validation
-- In-memory & modular service architectures
+- Flask (REST APIs, blueprints, middleware)  
+- API design & validation  
+- In-memory & modular service architectures  
 
-## 🧰 Dev & Ops Tools  
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode," />
+### 🧰 Dev & Ops Tools  
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cursor.svg" width="48" />
 
-- Git & GitHub workflows
-- API testing & debugging
-- Environment-based configuration
+- Git & GitHub workflows  
+- API testing & debugging  
+- Environment-based configuration  
 
 ---
 
