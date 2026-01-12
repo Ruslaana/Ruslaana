@@ -2,38 +2,59 @@
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Woman Coding" width="200" />
 
-### 🌍 FullStack Developer based in Denmark  
+### 🌍 Aspiring **Solution Architect / AI Developer**  
+📍 Based in Denmark  
 📫 Contact me at: **ruslaanonshchk@gmail.com**
 
 ---
 
 ## 🚀 About Me
 
-💡 I'm a passionate and curious developer who enjoys building full-stack applications with clean, functional code and user-friendly interfaces.
-
-## 🎯 Currently focused on :
-- 🐍 Learning Python
-- ☁️ AWS
-- 🧩 Microservices, Docker
-- 🚀 CI/CD workflows & automated deployment
-
-🌱 Always learning, always building.
+I’m a developer currently **requalifying toward Cloud Architecture and AI-driven systems**, with a strong focus on **AWS, backend engineering, and distributed systems**.
+I approach learning through **real projects, system design, and hands-on AWS practice**, not just theory.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Current Focus
 
-### Languages & Tools  
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
+- ☁️ **AWS & Cloud Architecture**
+- 🧩 **Microservices architecture**
+- 🐍 **Python backend development**
+- 🔍 **AI-assisted systems & data pipelines**
+- 🐳 **Docker & containerization**
+- 🔄 **CI/CD & deployment fundamentals**
+- 📚 **AWS certifications preparation**
 
-### Frameworks & Libraries  
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,materialui" />
+---
 
-### Databases  
-<img src="https://skillicons.dev/icons?i=mysql" />
+## 🛠️ Technical Stack
 
-### Tools  
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,docker,postman" />
+### 🐍 Core Language  
+<img src="https://skillicons.dev/icons?i=python" />
+
+- Python for backend services, automation, and data pipelines
+- Async programming & concurrency patterns
+
+### ☁️ Cloud & Architecture  
+<img src="https://skillicons.dev/icons?i=aws,docker" />
+
+- AWS
+- Cloud resource design & security principles
+- Containerized microservices
+
+### ⚙️ Backend & APIs  
+<img src="https://skillicons.dev/icons?i=python,nodejs" />
+
+- Flask (REST APIs, blueprints, middleware)
+- API design & validation
+- In-memory & modular service architectures
+
+### 🧰 Dev & Ops Tools  
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+
+- Git & GitHub workflows
+- API testing & debugging
+- Environment-based configuration
 
 ---
 
