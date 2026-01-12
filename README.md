@@ -8,14 +8,14 @@
 
 ---
 
-🚀 About Me
+## 🚀 About Me
 
 I’m a developer currently **requalifying toward Cloud Architecture and AI-driven systems**, with a strong focus on **AWS, backend engineering, and distributed systems**.  
 I approach learning through **real projects, system design, and hands-on AWS practice**, not just theory.
 
 ---
 
-🎯 Current Focus
+## 🎯 Current Focus
 
 - ☁️ **AWS & Cloud Architecture**
 - 🧩 **Microservices architecture**
@@ -27,7 +27,7 @@ I approach learning through **real projects, system design, and hands-on AWS pra
 
 ---
 
-🛠️ Technical Stack
+## 🛠️ Technical Stack
 
 🐍 Core Language  
 <img src="https://skillicons.dev/icons?i=python" />
@@ -35,14 +35,14 @@ I approach learning through **real projects, system design, and hands-on AWS pra
 - Python for backend services, automation, and data pipelines  
 - Async programming & concurrency patterns  
 
-☁️ Cloud & Architecture  
+## ☁️ Cloud & Architecture  
 <img src="https://skillicons.dev/icons?i=aws,docker" />
 
 - AWS  
 - Cloud resource design & security principles  
 - Containerized microservices   
 
-🧰 Dev & Ops Tools  
+## 🧰 Dev & Ops Tools  
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cursor.svg" width="48" />
 
