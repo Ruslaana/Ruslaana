@@ -15,7 +15,7 @@ I approach learning through **real projects, system design, and hands-on AWS pra
 
 ---
 
-## 🎯 Current Focus
+🎯 Current Focus
 
 - ☁️ **AWS & Cloud Architecture**
 - 🧩 **Microservices architecture**
@@ -27,44 +27,35 @@ I approach learning through **real projects, system design, and hands-on AWS pra
 
 ---
 
-## 🛠️ Technical Stack
+🛠️ Technical Stack
 
-### 🐍 Core Language  
+🐍 Core Language  
 <img src="https://skillicons.dev/icons?i=python" />
 
 - Python for backend services, automation, and data pipelines  
 - Async programming & concurrency patterns  
 
-### ☁️ Cloud & Architecture  
+☁️ Cloud & Architecture  
 <img src="https://skillicons.dev/icons?i=aws,docker" />
 
 - AWS  
 - Cloud resource design & security principles  
 - Containerized microservices  
 
-### ⚙️ Backend & APIs  
+⚙️ Backend & APIs  
 <img src="https://skillicons.dev/icons?i=python,nodejs" />
 
 - Flask (REST APIs, blueprints, middleware)  
 - API design & validation  
 - In-memory & modular service architectures  
 
-### 🧰 Dev & Ops Tools  
+🧰 Dev & Ops Tools  
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cursor.svg" width="48" />
 
 - Git & GitHub workflows  
 - API testing & debugging  
 - Environment-based configuration  
-
----
-
-## 📈 GitHub Stats
-
-![Ruslana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruslaana&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruslaana&layout=compact&theme=dark)
-
----
 
 ## 📫 Connect with Me
 
