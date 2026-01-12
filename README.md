@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+🚀 About Me
 
 I’m a developer currently **requalifying toward Cloud Architecture and AI-driven systems**, with a strong focus on **AWS, backend engineering, and distributed systems**.
 I approach learning through **real projects, system design, and hands-on AWS practice**, not just theory.
