@@ -40,14 +40,7 @@ I approach learning through **real projects, system design, and hands-on AWS pra
 
 - AWS  
 - Cloud resource design & security principles  
-- Containerized microservices  
-
-⚙️ Backend & APIs  
-<img src="https://skillicons.dev/icons?i=python,nodejs" />
-
-- Flask (REST APIs, blueprints, middleware)  
-- API design & validation  
-- In-memory & modular service architectures  
+- Containerized microservices   
 
 🧰 Dev & Ops Tools  
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
