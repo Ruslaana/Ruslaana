@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Woman Coding" width="200" />
 
-## 🧠 Solution Architect / AI Developer  
+## 🐍 Python Developer  
 📍 Based in Denmark  
 📫 Contact me at: **ruslaanonshchk@gmail.com**
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I’m a developer currently **requalifying toward Cloud Architecture and AI-driven systems**, with a strong focus on **AWS, backend engineering, and distributed systems**.  
+I’m a developer currently **requalifying toward Cloud Architecture and AI-driven systems**, with a strong focus on **AWS, Python, backend engineering, and distributed systems**.  
 I approach learning through **real projects, system design, and hands-on AWS practice**, not just theory.
 
 ---
