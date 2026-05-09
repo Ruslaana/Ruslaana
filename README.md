@@ -1,55 +1,75 @@
-# 👩‍💻 Hi there! I'm **Ruslana Onyshchuk**
+# Ruslana Onyshchuk
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Woman Coding" width="200" />
+Backend Developer focused on AI systems, cloud infrastructure, and scalable Python services.
 
-## 🐍 Python Developer  
-📍 Based in Denmark  
-📫 Contact me at: **ruslaanonshchk@gmail.com**
-
----
-
-## 🚀 About Me
-
-I’m a developer currently **requalifying toward Cloud Architecture and AI-driven systems**, with a strong focus on **AWS, Python, backend engineering, and distributed systems**.  
-I approach learning through **real projects, system design, and hands-on AWS practice**, not just theory.
+📍 Denmark  
+📧 ruslanaonshchk@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ruslana-onyshchuk/)  
+🔗 [GitHub](https://github.com/Ruslaana)
 
 ---
 
-## 🎯 Current Focus
+## About Me
 
-- ☁️ **AWS & Cloud Architecture**
-- 🧩 **Microservices architecture**
-- 🐍 **Python backend development**
-- 🔍 **AI-assisted systems & data pipelines**
-- 🐳 **Docker & containerization**
-- 🔄 **CI/CD & deployment fundamentals**
-- 📚 **AWS certifications preparation**
+Backend Developer working with AI-powered systems, cloud infrastructure, and scalable Python services.
+
+Focused on:
+- AI integrations and multi-agent architectures
+- REST microservices and backend engineering
+- AWS cloud infrastructure
+- automation workflows and data pipelines
+- production-ready backend systems
+
+I enjoy building practical systems that combine backend engineering, cloud technologies, and AI applications.
 
 ---
 
-## 🛠️ Technical Stack
+## Tech Stack
 
-🐍 Core Language  
-<img src="https://skillicons.dev/icons?i=python" />
+### Backend & Cloud
 
-- Python for backend services, automation, and data pipelines  
-- Async programming & concurrency patterns  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,aws,docker,git,github,postman" />
+</p>
 
-## ☁️ Cloud & Architecture  
-<img src="https://skillicons.dev/icons?i=aws,docker" />
+- Python
+- REST APIs
+- AWS Bedrock
+- DynamoDB
+- Docker
+- CI/CD fundamentals
+- Git/GitHub workflows
 
-- AWS  
-- Cloud resource design & security principles  
-- Containerized microservices   
+---
 
-## 🧰 Dev & Ops Tools  
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" /> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/cursor.svg" width="48" />
+### AI & Automation
 
-- Git & GitHub workflows  
-- API testing & debugging  
-- Environment-based configuration  
+- LLM-based systems
+- Multi-agent architectures
+- AI integrations
+- Automation workflows
+- Web scraping
+- LangSmith
+- Pinecone
 
-## 📫 Connect with Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruslana-onyshchuk-527872267)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ruslaanonshchk@gmail.com)
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts" />
+</p>
+
+- React
+- Next.js
+- Tailwind CSS
+- JavaScript / TypeScript
+
+---
+
+## Certifications
+
+- AWS Certified Cloud Practitioner
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Developer – Associate *(in progress)*
+```
